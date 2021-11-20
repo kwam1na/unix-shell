@@ -5,8 +5,6 @@
  * filesystem
  *
  * (c) Ernest Essuah Mensah
- * 
- * eessuahm 115784345 Section 0102
  */
 
 struct Container;

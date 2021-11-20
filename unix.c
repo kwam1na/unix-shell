@@ -5,7 +5,6 @@
  * version of a Unix system.
  *
  * (c) Ernest Essuah Mensah
- * eessuahm 115784345 Section 0102
  */
 
 #include <stdio.h>
